@@ -1,0 +1,15 @@
+Z:\Programacion4\EjemploColecciones\bin\Debug\net6.0\EjemploColecciones.exe
+Z:\Programacion4\EjemploColecciones\bin\Debug\net6.0\EjemploColecciones.deps.json
+Z:\Programacion4\EjemploColecciones\bin\Debug\net6.0\EjemploColecciones.runtimeconfig.json
+Z:\Programacion4\EjemploColecciones\bin\Debug\net6.0\EjemploColecciones.dll
+Z:\Programacion4\EjemploColecciones\bin\Debug\net6.0\EjemploColecciones.pdb
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.csproj.AssemblyReference.cache
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.AssemblyInfoInputs.cache
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.AssemblyInfo.cs
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.csproj.CoreCompileInputs.cache
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.dll
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\refint\EjemploColecciones.dll
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.pdb
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\EjemploColecciones.genruntimeconfig.cache
+Z:\Programacion4\EjemploColecciones\obj\Debug\net6.0\ref\EjemploColecciones.dll
