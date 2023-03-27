@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         //LISTAS
-        
+
         List<string> nombres = new List<string>();
 
         nombres.Add("Roberto");
@@ -52,6 +52,10 @@
                 Console.WriteLine("-" + nombre);
             }
         }
+
+        Dictionary<string, bool> presentes = new Dictionary<string, bool>();
+        presentes.Add("Eitan", true);
+        presentes.Add("Cañete", false);
 
     }
 }
